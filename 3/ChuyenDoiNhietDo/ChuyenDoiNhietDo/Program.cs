@@ -1,0 +1,11 @@
+﻿decimal celsius;
+Console.Write("Nhap nhiet do (do C): ");
+celsius = decimal.Parse(Console.ReadLine());
+decimal fahrenheit = celsius * 9 / 5 + 32;
+decimal kelvin = celsius + 273.15m;
+Console.WriteLine();
+Console.WriteLine("Celsius: {0:F2} do C", celsius);
+Console.WriteLine("Fahrenheit: {0:F2} do F", fahrenheit);
+Console.WriteLine("Kelvin: {0:F2} K", kelvin);
+Console.WriteLine();
+Console.WriteLine("MSSV: 6551071039");

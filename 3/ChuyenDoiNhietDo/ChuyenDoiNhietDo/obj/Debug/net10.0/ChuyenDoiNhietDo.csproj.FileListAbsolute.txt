@@ -1,0 +1,14 @@
+E:\BTLT1_LTTQ\ChuyenDoiNhietDo\ChuyenDoiNhietDo\bin\Debug\net10.0\ChuyenDoiNhietDo.exe
+E:\BTLT1_LTTQ\ChuyenDoiNhietDo\ChuyenDoiNhietDo\bin\Debug\net10.0\ChuyenDoiNhietDo.deps.json
+E:\BTLT1_LTTQ\ChuyenDoiNhietDo\ChuyenDoiNhietDo\bin\Debug\net10.0\ChuyenDoiNhietDo.runtimeconfig.json
+E:\BTLT1_LTTQ\ChuyenDoiNhietDo\ChuyenDoiNhietDo\bin\Debug\net10.0\ChuyenDoiNhietDo.dll
+E:\BTLT1_LTTQ\ChuyenDoiNhietDo\ChuyenDoiNhietDo\bin\Debug\net10.0\ChuyenDoiNhietDo.pdb
+E:\BTLT1_LTTQ\ChuyenDoiNhietDo\ChuyenDoiNhietDo\obj\Debug\net10.0\ChuyenDoiNhietDo.GeneratedMSBuildEditorConfig.editorconfig
+E:\BTLT1_LTTQ\ChuyenDoiNhietDo\ChuyenDoiNhietDo\obj\Debug\net10.0\ChuyenDoiNhietDo.AssemblyInfoInputs.cache
+E:\BTLT1_LTTQ\ChuyenDoiNhietDo\ChuyenDoiNhietDo\obj\Debug\net10.0\ChuyenDoiNhietDo.AssemblyInfo.cs
+E:\BTLT1_LTTQ\ChuyenDoiNhietDo\ChuyenDoiNhietDo\obj\Debug\net10.0\ChuyenDoiNhietDo.csproj.CoreCompileInputs.cache
+E:\BTLT1_LTTQ\ChuyenDoiNhietDo\ChuyenDoiNhietDo\obj\Debug\net10.0\ChuyenDoiNhietDo.dll
+E:\BTLT1_LTTQ\ChuyenDoiNhietDo\ChuyenDoiNhietDo\obj\Debug\net10.0\refint\ChuyenDoiNhietDo.dll
+E:\BTLT1_LTTQ\ChuyenDoiNhietDo\ChuyenDoiNhietDo\obj\Debug\net10.0\ChuyenDoiNhietDo.pdb
+E:\BTLT1_LTTQ\ChuyenDoiNhietDo\ChuyenDoiNhietDo\obj\Debug\net10.0\ChuyenDoiNhietDo.genruntimeconfig.cache
+E:\BTLT1_LTTQ\ChuyenDoiNhietDo\ChuyenDoiNhietDo\obj\Debug\net10.0\ref\ChuyenDoiNhietDo.dll

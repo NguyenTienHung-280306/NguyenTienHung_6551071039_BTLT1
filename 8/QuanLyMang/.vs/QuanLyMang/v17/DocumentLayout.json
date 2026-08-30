@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\QuanLyMang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{131EC151-5DB4-4FE0-96E6-E59A5CC5187C}|QuanLyMang\\QuanLyMang.csproj|d:\\project\\quanlymang\\quanlymang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{131EC151-5DB4-4FE0-96E6-E59A5CC5187C}|QuanLyMang\\QuanLyMang.csproj|solutionrelative:quanlymang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\QuanLyMang\\QuanLyMang\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLyMang\\Program.cs",
+              "ToolTip": "D:\\Project\\QuanLyMang\\QuanLyMang\\Program.cs",
+              "RelativeToolTip": "QuanLyMang\\Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAE0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T13:18:35.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

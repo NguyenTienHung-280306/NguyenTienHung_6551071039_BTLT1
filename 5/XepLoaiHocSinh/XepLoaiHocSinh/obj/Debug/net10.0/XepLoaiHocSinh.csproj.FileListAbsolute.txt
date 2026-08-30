@@ -1,0 +1,14 @@
+E:\BTLT1_LTTQ\XepLoaiHocSinh\XepLoaiHocSinh\bin\Debug\net10.0\XepLoaiHocSinh.exe
+E:\BTLT1_LTTQ\XepLoaiHocSinh\XepLoaiHocSinh\bin\Debug\net10.0\XepLoaiHocSinh.deps.json
+E:\BTLT1_LTTQ\XepLoaiHocSinh\XepLoaiHocSinh\bin\Debug\net10.0\XepLoaiHocSinh.runtimeconfig.json
+E:\BTLT1_LTTQ\XepLoaiHocSinh\XepLoaiHocSinh\bin\Debug\net10.0\XepLoaiHocSinh.dll
+E:\BTLT1_LTTQ\XepLoaiHocSinh\XepLoaiHocSinh\bin\Debug\net10.0\XepLoaiHocSinh.pdb
+E:\BTLT1_LTTQ\XepLoaiHocSinh\XepLoaiHocSinh\obj\Debug\net10.0\XepLoaiHocSinh.GeneratedMSBuildEditorConfig.editorconfig
+E:\BTLT1_LTTQ\XepLoaiHocSinh\XepLoaiHocSinh\obj\Debug\net10.0\XepLoaiHocSinh.AssemblyInfoInputs.cache
+E:\BTLT1_LTTQ\XepLoaiHocSinh\XepLoaiHocSinh\obj\Debug\net10.0\XepLoaiHocSinh.AssemblyInfo.cs
+E:\BTLT1_LTTQ\XepLoaiHocSinh\XepLoaiHocSinh\obj\Debug\net10.0\XepLoaiHocSinh.csproj.CoreCompileInputs.cache
+E:\BTLT1_LTTQ\XepLoaiHocSinh\XepLoaiHocSinh\obj\Debug\net10.0\XepLoaiHocSinh.dll
+E:\BTLT1_LTTQ\XepLoaiHocSinh\XepLoaiHocSinh\obj\Debug\net10.0\refint\XepLoaiHocSinh.dll
+E:\BTLT1_LTTQ\XepLoaiHocSinh\XepLoaiHocSinh\obj\Debug\net10.0\XepLoaiHocSinh.pdb
+E:\BTLT1_LTTQ\XepLoaiHocSinh\XepLoaiHocSinh\obj\Debug\net10.0\XepLoaiHocSinh.genruntimeconfig.cache
+E:\BTLT1_LTTQ\XepLoaiHocSinh\XepLoaiHocSinh\obj\Debug\net10.0\ref\XepLoaiHocSinh.dll
